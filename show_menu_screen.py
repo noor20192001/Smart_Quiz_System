@@ -2,12 +2,12 @@ process = ''
 
 def show_menu():
     """show menu function"""
-    from start import start_quize
-    from add_question import add
-    from delete_question import delete
-    from sarech_question import sarech
-    from statistics import statistic
-    from previous_results import previous
+    from start_quiz_screen import start_quize
+    from add_screen import add
+    from delete_screen import delete
+    from sarech_screen import sarech
+    from statistics_screen import statistic
+    from previous_attempts_screen import previous
     #print("\n \t ========== SMART QUIZ SYSTEM ==========")
    # print(" 1. Start Quiz \n 2. View Previous Results ")
    # print(" 3. Add Question \n 4. Delete Question ")
