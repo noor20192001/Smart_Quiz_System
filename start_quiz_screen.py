@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 from question import id_hard,id_medium,id_easy
-from show_meun_function import show_menu
+from show_meun_screen import show_menu
 file_name_result = "result.json"
 useranswer = ''
 global score
