@@ -1,5 +1,5 @@
 import json
-from question import id_easy,id_medium,id_hard
+from question_screen import id_easy,id_medium,id_hard
 
 def add():
     """ add question to database """
